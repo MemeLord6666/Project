@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "details": "Лёгкий кофе со вкусом чёрной смородины, персика и какао.  Тефереикела — станция обработки, которая находится рядом с одноименным городом в зоне Дара, регион Сидамо.",
+      "price": "1000",
+      "quantity": "ЭФИОПИЯ ТЕФЕРЕИКЕЛА",
+      "category": "Кофе",
+      "sale": "0",
+      "urlImg": "https://coffee-static.storage.yandexcloud.net/files/shares/data/_newpack7/esp-micro/espresso-ethiopia-tefereikela-025.png",
+      "id": 1
+    }
+  ]
+}
